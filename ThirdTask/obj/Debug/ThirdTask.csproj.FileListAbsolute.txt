@@ -1,0 +1,6 @@
+C:\Users\БекмухамбетА\Downloads\DZ-3\ThirdTask\bin\Debug\ThirdTask.exe.config
+C:\Users\БекмухамбетА\Downloads\DZ-3\ThirdTask\bin\Debug\ThirdTask.exe
+C:\Users\БекмухамбетА\Downloads\DZ-3\ThirdTask\bin\Debug\ThirdTask.pdb
+C:\Users\БекмухамбетА\Downloads\DZ-3\ThirdTask\obj\Debug\ThirdTask.exe
+C:\Users\БекмухамбетА\Downloads\DZ-3\ThirdTask\obj\Debug\ThirdTask.pdb
+C:\Users\БекмухамбетА\Downloads\DZ-3\ThirdTask\obj\Debug\ThirdTask.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\БекмухамбетА\Downloads\DZ-3\SecondTask\bin\Debug\SecondTask.exe.config
+C:\Users\БекмухамбетА\Downloads\DZ-3\SecondTask\bin\Debug\SecondTask.exe
+C:\Users\БекмухамбетА\Downloads\DZ-3\SecondTask\bin\Debug\SecondTask.pdb
+C:\Users\БекмухамбетА\Downloads\DZ-3\SecondTask\obj\Debug\SecondTask.csprojResolveAssemblyReference.cache
+C:\Users\БекмухамбетА\Downloads\DZ-3\SecondTask\obj\Debug\SecondTask.exe
+C:\Users\БекмухамбетА\Downloads\DZ-3\SecondTask\obj\Debug\SecondTask.pdb

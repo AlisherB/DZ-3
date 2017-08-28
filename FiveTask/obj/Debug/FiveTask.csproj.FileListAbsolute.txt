@@ -1,0 +1,5 @@
+C:\Users\БекмухамбетА\Downloads\DZ-3\FiveTask\bin\Debug\FiveTask.exe.config
+C:\Users\БекмухамбетА\Downloads\DZ-3\FiveTask\bin\Debug\FiveTask.exe
+C:\Users\БекмухамбетА\Downloads\DZ-3\FiveTask\bin\Debug\FiveTask.pdb
+C:\Users\БекмухамбетА\Downloads\DZ-3\FiveTask\obj\Debug\FiveTask.exe
+C:\Users\БекмухамбетА\Downloads\DZ-3\FiveTask\obj\Debug\FiveTask.pdb

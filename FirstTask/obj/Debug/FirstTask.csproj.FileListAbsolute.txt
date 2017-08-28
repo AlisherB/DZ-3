@@ -1,0 +1,6 @@
+C:\Users\БекмухамбетА\Downloads\DZ-3\FirstTask\bin\Debug\FirstTask.exe.config
+C:\Users\БекмухамбетА\Downloads\DZ-3\FirstTask\bin\Debug\FirstTask.exe
+C:\Users\БекмухамбетА\Downloads\DZ-3\FirstTask\bin\Debug\FirstTask.pdb
+C:\Users\БекмухамбетА\Downloads\DZ-3\FirstTask\obj\Debug\FirstTask.csprojResolveAssemblyReference.cache
+C:\Users\БекмухамбетА\Downloads\DZ-3\FirstTask\obj\Debug\FirstTask.exe
+C:\Users\БекмухамбетА\Downloads\DZ-3\FirstTask\obj\Debug\FirstTask.pdb
